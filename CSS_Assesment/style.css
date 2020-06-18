@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+    color: black
+  }
+header {
+    background-color: gray;
+    width: 100%;
+    margin-bottom: 40px;
+}
+#left {
+    float: left;
+    width: 50%;
+    background-color: blue;
+    height: 400px;
+    padding: 200px;
+    margin-bottom: 185px;
+}
+#Right {
+    float: right;
+    width: 25%;
+    background-color: red;
+    height: 400px;
+    padding: 200px;
+}
+#footer {
+    background-color: green;
+    width: 100%;
+    clear: both;
+}
